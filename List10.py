@@ -6,4 +6,4 @@ def main(list_num):
     Returns:
         int: return answer
     """
-    return
+    return list_num[0]
